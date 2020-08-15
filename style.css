@@ -1,0 +1,17 @@
+h1{
+    color: rgb(29, 29, 165);
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(15, 15, 231);
+    text-transform: lowercase;
+    text-align: center;
+}
+
+p {
+    color: rgb(0, 162, 255);
+    text-indent: 50px;
+    text-align: justify;
+}
